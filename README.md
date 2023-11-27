@@ -9,3 +9,5 @@ To use this project, simply clone the repository and open the `index.html` file 
 <img width="946" alt="image" src="https://github.com/reddymanyam/Easy-Shop/assets/142713295/33f23a53-468a-434c-a322-4a6d9f729c4e">
 <img width="945" alt="Screenshot 2023-11-20 075221" src="https://github.com/reddymanyam/Easy-Shop/assets/142713295/4e9d5fe1-5139-44b1-ade2-48ab34ea36ab">
 
+## Easy-Shop live project link
+🚀https://reddymanyam.github.io/Easy-Shop/
